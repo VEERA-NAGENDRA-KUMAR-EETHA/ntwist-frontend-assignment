@@ -1,5 +1,4 @@
 # ntwist-frontend-assignment
-# ntwist-frontend-assignment
 
 This is a mini web application created using HTML, CSS, and Vanilla JavaScript.
 
